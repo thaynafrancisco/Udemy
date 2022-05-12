@@ -1,6 +1,6 @@
 # Udemy
 
-Course 1 - https://www.udemy.com/course/javascript-curso-completo/
+Course - https://www.udemy.com/course/javascript-curso-completo/
 
 [In Progress] Projeto 1 - Calculator (svg)
 
